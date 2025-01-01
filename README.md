@@ -1,6 +1,17 @@
 # CODTECH.TASK2
 # Simple Linear Regression Model
 
+**COMPANY**: CODTECT IT SOLUTIONS
+
+**NAME**:MUHSINA CT
+
+**INTERN ID**:CT08FAA
+
+**DOMAIN**:DATA SCIENCE
+
+**BATCH DURATION**:20 DECEMBER 2024 TO 20 JANUARY 2025
+
+
 This project demonstrates the implementation of a simple linear regression model to predict a continuous target variable, specifically the closing price of gold. The dataset is split into training and testing sets, and the model is evaluated using metrics like Mean Squared Error (MSE) and R-squared (R²).
 
 ## Steps:
